@@ -1,0 +1,6 @@
+stream_id,stream_name,latitude,longitude,location
+3b67b2c90a02c596a2d245d6680ae597cbdd9bd6398e17febc311a66f0fcff8d,adl-metre-burrow,-34.921693,138.917177,Australia/Adelaide
+7cfc2b2d72f3628faf5da01f9f4a4d31ad98348f7c68d27f2deeafeaa733223b,adl-metre-husk,-35.02,139.94,Australia/Adelaide
+ddf00601c23f5a9f107bfccf985dc0b0d8ec7c506a88e3e61ebe809e0ae29c80,adl-temp-circuit,-34.921693,138.917177,Australia/Adelaide
+4623fb0659411607afe0dcf211848b51dca225244685b1d41d917d2c5ed68d8e,syd-metre-newton,-33.994827,153.147805,Australia/Sydney
+cdef31ee86f8194fed03a157a45f37e2bdbf785ce3a03126b0d94190d345a414,syd-temp-furlong,-33.994827,153.147805,Australia/Sydney
