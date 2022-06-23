@@ -60,7 +60,7 @@ kickstarter_from_dbfs_to_db(dbfs_path, team_name, drop_database)
 # DBTITLE 1,Load datasets to spark dataframes
 team_name = 'transformer'
 dbfs_path = f'dbfs:/FileStore/hackathon/{team_name}'
-dataframe_dict = kickstarter_from_dbfs_to_spark_dfs()
+dataframe_dict = kickstarter_from_dbfs_to_spark_dfs(dbfs_path)
 
 metre_readings =    dataframe_dict['metre_readings']
 metre_predictions = dataframe_dict['metre_predictions']
