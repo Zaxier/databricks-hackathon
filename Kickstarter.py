@@ -45,6 +45,8 @@ def kickstarter_from_dbfs_to_db(dbfs_path, team_name, drop_cascade=False):
     
   spark.sql(f'show tables in {db_name}').show()
   
+  
+
 
 # COMMAND ----------
 
